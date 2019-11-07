@@ -1,0 +1,29 @@
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#navbar{
+	/*position: fixed;*/
+	width : 99%;
+	height: 1%;
+	text-align: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+#welcome-section{
+	display: flex;
+	justify-content: center;
+	margin: 0px;
+	margin-top: 50vh;
+	margin-left: 50vh;
+	padding: 0px;
+	height: 50vh;
+	width: 100vh;
+    /*text-align: center;*/
+	
+}
+
+
